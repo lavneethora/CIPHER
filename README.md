@@ -37,17 +37,17 @@ In this Python program, the user can both encrypt and decrypt messages by specif
 
 1. **Clone the Repository**:
 ```bash
-git clone https://github.com/lavneethora/Hangman.git
+git clone https://github.com/lavneethora/CIPHER.git
 ```
 
 2. **Navigate to the Project Directory**:
 ```bash
-cd Hangman
+cd CIPHER
 ```
 
 3. **Run the Game**:
 ```bash
-python hangman.py
+python cipher.py
 ```
 
 ## Sample Execution
